@@ -15,10 +15,12 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## SQL Development
 * Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+* Data Engineering
+* ETL Pipeline Developer
+* Data Modeling
+* Data Analytics
+
+---
 
 # Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
